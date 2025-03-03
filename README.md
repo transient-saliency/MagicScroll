@@ -1,5 +1,6 @@
 # MagicScroll: Enhancing Immersive Storytelling with Controllable Scroll Image Generation (VR 2025)
 ## [<a href="https://magicscroll.github.io/" target="_blank">Project Page</a>]
+## [<a href="https://cislab.hkust-gz.edu.cn/publications/magicscroll-enhancing-immersive-storytelling-with-controllable-scroll-image-generation/" target="_blank">Paper</a>]
 
 ![teaser](imgs/teaser.png)
 
