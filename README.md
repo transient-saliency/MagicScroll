@@ -29,22 +29,20 @@ prompt = "a photo of the dolomites"
 image = pipe(prompt).images[0]
 ```
 
-## Gradio Demo 
-We provide a gradio UI for our method:
+## Requirements 
+The code has been tested on python 3.8. You can install the required packages via:
 ```
-python app_gradio.py
+pip install -r requirements.txt
 ```
-This demo is also hosted on HuggingFace [here](changec the url!)
+We are also working on a gradio UI and a HuggingFace demo, please stay tuned!
 
 ## Citation
 ```
-@misc{wang2023magicscrollnontypicalaspectratioimage,
-      title={MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoising}, 
-      author={Bingyuan Wang and Hengyu Meng and Zeyu Cai and Lanjiong Li and Yue Ma and Qifeng Chen and Zeyu Wang},
-      year={2023},
-      eprint={2312.10899},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2312.10899}, 
+@inproceedings{wang2025magicscroll,
+  title={MagicScroll: Enhancing Immersive Storytelling with Controllable Scroll Image Generation},
+  author={Wang, Bingyuan and Meng, Hengyu and Cao, Rui and Cai, Zeyu and Li, Lanjiong and Ma, Yue and Chen, Qifeng and Wang, Zeyu},
+  booktitle={2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)},
+  year={2025},
+  organization={IEEE}
 }
 ```
