@@ -1,0 +1,15 @@
+mountain dwelling:红色
+tranquility:绿色
+noon:蓝色
+firewood gate:黄色
+gather:洋红
+shun:青色
+way:栗色
+honor:橄榄绿
+swallows:紫色
+phoenixes:橙色
+orchids:粉红
+mugworts:天蓝
+elder:灰色
+meet:银色
+discuss:橙红

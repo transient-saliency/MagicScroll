@@ -1,0 +1,10 @@
+Red Cliffs:红色
+lake bridge:绿色
+verdant ridges:蓝色
+cascading waterfalls:黄色
+peak:洋红
+clouds:青色
+rocks:栗色
+sun:橄榄绿
+mountains:紫色
+stones:橙色

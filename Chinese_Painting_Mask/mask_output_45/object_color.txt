@@ -1,0 +1,6 @@
+mist:红色
+clouds:绿色
+Yushan:蓝色
+blue trees:黄色
+red maples:洋红
+water pool:青色

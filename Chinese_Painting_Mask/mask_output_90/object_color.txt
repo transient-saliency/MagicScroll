@@ -1,0 +1,8 @@
+mountains:红色
+rivers:绿色
+realm:蓝色
+landscape:黄色
+Scholars:洋红
+Red Cliff:青色
+world:栗色
+emotions:橄榄绿

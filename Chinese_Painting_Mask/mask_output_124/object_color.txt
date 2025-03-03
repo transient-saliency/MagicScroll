@@ -1,0 +1,7 @@
+rain:红色
+autumn fest:绿色
+forest glade:蓝色
+heat:黄色
+mountains:洋红
+clouds:青色
+bridge:栗色

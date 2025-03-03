@@ -1,0 +1,10 @@
+clouds:红色
+mountains:绿色
+painting:蓝色
+Mist:黄色
+ink:洋红
+brush:青色
+depth:栗色
+thought:橄榄绿
+grace:紫色
+river:橙色

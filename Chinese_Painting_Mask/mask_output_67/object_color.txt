@@ -1,0 +1,9 @@
+Pine shade:红色
+west of Qujiang:绿色
+willows:蓝色
+embankment:黄色
+carriage:洋红
+horse:青色
+dust:栗色
+small tower:橄榄绿
+orioles:紫色

@@ -1,0 +1,9 @@
+clouds:红色
+mountains:绿色
+peaks:蓝色
+path:黄色
+heavens:洋红
+ape:青色
+Linghuo:栗色
+alchemical platform:橄榄绿
+vermilion sand spring water:紫色

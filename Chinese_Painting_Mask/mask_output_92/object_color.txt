@@ -1,0 +1,10 @@
+brush:红色
+ink:绿色
+mortal realm:蓝色
+towers:黄色
+pavilions:洋红
+flowers:青色
+plants:栗色
+remnants:橄榄绿
+stream:紫色
+Zhongshan:橙色

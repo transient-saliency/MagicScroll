@@ -1,0 +1,8 @@
+journey:红色
+robe:绿色
+stroll:蓝色
+water:黄色
+day:洋红
+curtains:青色
+mountains:栗色
+jade:橄榄绿

@@ -1,0 +1,20 @@
+rice:红色
+immortal:绿色
+tower:蓝色
+wu trees:黄色
+cottage:洋红
+Red County:青色
+frogs:栗色
+birds:橄榄绿
+east:紫色
+west:橙色
+sky:粉红
+belly:天蓝
+chest:灰色
+Hu text:银色
+nine canals:橙红
+beard:紫红
+gaze:淡绿
+eight regions:玫瑰红
+Yu Shun:深绿
+Cangwu:棕色

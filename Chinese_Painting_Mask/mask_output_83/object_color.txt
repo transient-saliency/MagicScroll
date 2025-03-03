@@ -1,0 +1,14 @@
+pine trees:红色
+walls:绿色
+waterfall:蓝色
+immortal:黄色
+White Dragon Pool:洋红
+White Dragon Pool:青色
+pine:栗色
+snow:橄榄绿
+brushwork:紫色
+plum blossoms:橙色
+Mt:粉红
+Qu:天蓝
+clear:灰色
+side:银色

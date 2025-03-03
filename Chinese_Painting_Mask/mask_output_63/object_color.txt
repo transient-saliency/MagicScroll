@@ -1,0 +1,11 @@
+sun:红色
+willows:绿色
+pond:蓝色
+light:黄色
+ripples:洋红
+wind:青色
+chest:栗色
+fields:橄榄绿
+water_channels:紫色
+fish:橙色
+waves:粉红

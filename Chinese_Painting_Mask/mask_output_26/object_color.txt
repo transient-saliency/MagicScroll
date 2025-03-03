@@ -1,0 +1,14 @@
+leaf:红色
+wind:绿色
+miles:蓝色
+view:黄色
+green:洋红
+present:青色
+absent:栗色
+frost:橄榄绿
+maple leaves:紫色
+brocade:橙色
+waves:粉红
+perch:天蓝
+wine gourd:灰色
+poetry tube:银色

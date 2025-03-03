@@ -1,0 +1,7 @@
+mountains:红色
+greenery:绿色
+mist:蓝色
+autumn:黄色
+skies:洋红
+air:青色
+leaves:栗色

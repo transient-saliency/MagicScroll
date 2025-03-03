@@ -1,0 +1,2 @@
+mountains:红色
+mist:绿色

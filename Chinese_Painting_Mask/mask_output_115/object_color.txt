@@ -1,0 +1,8 @@
+scenes:红色
+springs:绿色
+platform:蓝色
+mountains:黄色
+rivers:洋红
+Mount Tai:青色
+heavy rocks:栗色
+Mount Zhongnan:橄榄绿

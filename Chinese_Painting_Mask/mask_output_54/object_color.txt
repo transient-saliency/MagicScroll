@@ -1,0 +1,14 @@
+scenery:红色
+screen:绿色
+road:蓝色
+mountain cliffs:黄色
+house:洋红
+riverbanks:青色
+willow slope:栗色
+level ground:橄榄绿
+horses:紫色
+men:橙色
+boats:粉红
+wind:天蓝
+smell:灰色
+fish:银色

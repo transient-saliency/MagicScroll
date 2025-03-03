@@ -1,0 +1,4 @@
+Wuling:红色
+creek:绿色
+road:蓝色
+peach blossom forest:黄色

@@ -1,0 +1,11 @@
+path:红色
+hill:绿色
+cliffs:蓝色
+peaks:黄色
+ridges:洋红
+waves:青色
+flowers:栗色
+branches:橄榄绿
+vines:紫色
+clouds:橙色
+cloth robe:粉红

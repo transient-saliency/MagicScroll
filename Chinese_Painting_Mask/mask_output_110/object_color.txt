@@ -1,0 +1,7 @@
+branches:红色
+ground:绿色
+bamboo branches:蓝色
+vine flowers:黄色
+monkey:洋红
+cypress leaves:青色
+musk:栗色

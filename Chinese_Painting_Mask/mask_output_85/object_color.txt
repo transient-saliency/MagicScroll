@@ -1,0 +1,7 @@
+dragons:红色
+snakes:绿色
+brush:蓝色
+world:黄色
+pine trees:洋红
+vine:青色
+flowers:栗色

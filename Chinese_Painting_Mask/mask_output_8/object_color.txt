@@ -1,0 +1,9 @@
+loyalty:红色
+nation:绿色
+songs:蓝色
+mountains:黄色
+ridges:洋红
+rain:青色
+fog:栗色
+leaves:橄榄绿
+peaks:紫色

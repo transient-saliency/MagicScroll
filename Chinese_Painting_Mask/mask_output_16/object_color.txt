@@ -1,0 +1,2 @@
+winds:红色
+rains:绿色

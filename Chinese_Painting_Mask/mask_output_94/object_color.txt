@@ -1,0 +1,8 @@
+jade:红色
+realm:绿色
+wisdom:蓝色
+water:黄色
+pavilion:洋红
+trees:青色
+peaks:栗色
+springs:橄榄绿

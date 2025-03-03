@@ -1,0 +1,6 @@
+child servant:红色
+little son:绿色
+gate:蓝色
+paths:黄色
+pine:洋红
+chrysanthemums:青色

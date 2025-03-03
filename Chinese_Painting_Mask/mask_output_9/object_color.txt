@@ -1,0 +1,17 @@
+rail:红色
+waters:绿色
+mountain:蓝色
+flowers:黄色
+world:洋红
+Lizhu Pavilion:青色
+sound of the wind:栗色
+diligent government hall:橄榄绿
+Cuiwei Pavilion by the water:紫色
+morning sun:橙色
+Qiyue Cliff:粉红
+evening clearness:天蓝
+Yuhua peak:灰色
+clouds:银色
+mist:橙红
+dense green valleys:紫红
+tree shadows:淡绿

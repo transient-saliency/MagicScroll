@@ -1,0 +1,14 @@
+clouds:红色
+mist:绿色
+peaks:蓝色
+waves:黄色
+shore:洋红
+snow:青色
+heaps:栗色
+thousand:橄榄绿
+ridges:紫色
+peaks:橙色
+winding paths:粉红
+cottages:天蓝
+houses:灰色
+travelers:银色

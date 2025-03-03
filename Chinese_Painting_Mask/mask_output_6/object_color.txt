@@ -1,0 +1,7 @@
+mountains:红色
+waters:绿色
+connection:蓝色
+shadows:黄色
+peaks:洋红
+mountains:青色
+rivers:栗色

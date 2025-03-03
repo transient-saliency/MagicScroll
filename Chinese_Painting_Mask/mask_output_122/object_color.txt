@@ -1,0 +1,7 @@
+mountains:红色
+streams:绿色
+houses:蓝色
+mountains:黄色
+stones:洋红
+moss:青色
+mountain rows:栗色

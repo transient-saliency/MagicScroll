@@ -1,0 +1,8 @@
+day:红色
+mountain:绿色
+dust:蓝色
+pine trees:黄色
+falling blossoms:洋红
+woven bamboo hat:青色
+retreat:栗色
+Pan Valley:橄榄绿

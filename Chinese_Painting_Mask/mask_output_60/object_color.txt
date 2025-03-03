@@ -1,0 +1,5 @@
+pavilion:红色
+pond:绿色
+sun:蓝色
+pine shadows:黄色
+Crystal Palace:洋红

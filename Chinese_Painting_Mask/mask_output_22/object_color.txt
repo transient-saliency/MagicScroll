@@ -1,0 +1,5 @@
+old man:红色
+study:绿色
+pearls:蓝色
+pen:黄色
+vine:洋红

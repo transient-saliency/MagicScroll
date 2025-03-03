@@ -1,0 +1,4 @@
+mountains:红色
+rivers:绿色
+grass:蓝色
+trees:黄色

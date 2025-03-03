@@ -1,0 +1,17 @@
+patterns:红色
+stream:绿色
+river:蓝色
+letters:黄色
+mat:洋红
+breeze:青色
+hair:栗色
+ink:橄榄绿
+trickles:紫色
+clouds:橙色
+light:粉红
+crab:天蓝
+mountain:灰色
+water:银色
+rain:橙红
+rivers:紫红
+mountains:淡绿

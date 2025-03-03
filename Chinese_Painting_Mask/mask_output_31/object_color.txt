@@ -1,0 +1,9 @@
+zither:红色
+bird:绿色
+song:蓝色
+years:黄色
+hardship:洋红
+pines:青色
+mountain stream:栗色
+mountains:橄榄绿
+water:紫色

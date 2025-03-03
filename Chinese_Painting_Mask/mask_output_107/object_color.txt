@@ -1,0 +1,12 @@
+master:红色
+pot:绿色
+qi:蓝色
+clouds:黄色
+sparks:洋红
+sparks:青色
+secrets:栗色
+creation:橄榄绿
+name:紫色
+Xiang River:橙色
+thoughts:粉红
+ink:天蓝

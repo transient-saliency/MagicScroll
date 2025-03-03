@@ -1,0 +1,17 @@
+mountains:红色
+peaks:绿色
+water:蓝色
+sounds:黄色
+streams:洋红
+Mountain:青色
+water:栗色
+sentiment:橄榄绿
+unfinished painting:紫色
+endless clouds:橙色
+Yuan Ji's interaction:粉红
+imitation:天蓝
+realm:灰色
+climbing:银色
+child:橙红
+Mi Haiguo:紫红
+Gaofang Mountain:淡绿

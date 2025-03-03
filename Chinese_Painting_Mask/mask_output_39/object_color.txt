@@ -1,0 +1,5 @@
+trees:红色
+window:绿色
+cage:蓝色
+mountains:黄色
+green:洋红

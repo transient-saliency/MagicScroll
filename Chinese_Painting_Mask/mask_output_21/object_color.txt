@@ -1,0 +1,13 @@
+wave:红色
+fish:绿色
+rainbow:蓝色
+lake:黄色
+mountain:洋红
+blue:青色
+purple:栗色
+moon:橄榄绿
+patterns:紫色
+path:橙色
+wind:粉红
+printing worker:天蓝
+old man SuGong:灰色

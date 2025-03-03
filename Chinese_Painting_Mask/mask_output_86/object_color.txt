@@ -1,0 +1,5 @@
+man:红色
+nature:绿色
+writing:蓝色
+fences:黄色
+others:洋红

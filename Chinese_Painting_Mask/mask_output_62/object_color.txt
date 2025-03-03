@@ -1,0 +1,5 @@
+bridge:红色
+traveler:绿色
+wind:蓝色
+leaves:黄色
+temples:洋红

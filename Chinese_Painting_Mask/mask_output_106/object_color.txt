@@ -1,0 +1,6 @@
+river:红色
+moon:绿色
+sun:蓝色
+Southern Mountain:黄色
+pine:洋红
+cypress:青色

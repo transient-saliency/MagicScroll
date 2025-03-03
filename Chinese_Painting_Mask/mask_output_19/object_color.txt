@@ -1,0 +1,6 @@
+clouds:红色
+mist:绿色
+mountains:蓝色
+waters:黄色
+river:洋红
+heart:青色

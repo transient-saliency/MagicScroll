@@ -1,0 +1,12 @@
+year:红色
+day:绿色
+cold:蓝色
+guests:黄色
+cottage:洋红
+wine:青色
+wine:栗色
+rooster:橄榄绿
+river:紫色
+geese:橙色
+candle:粉红
+poem:天蓝

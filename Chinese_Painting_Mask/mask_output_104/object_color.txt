@@ -1,0 +1,7 @@
+forest:红色
+mist:绿色
+springs:蓝色
+Lu Yu:黄色
+secluded dwelling:洋红
+bell's sound:青色
+thoughts:栗色

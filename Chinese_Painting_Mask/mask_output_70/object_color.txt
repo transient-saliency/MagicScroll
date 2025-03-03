@@ -1,0 +1,13 @@
+lake's mountain scenery:红色
+green pines:绿色
+boat shadows:蓝色
+water surface:黄色
+blue peaks:洋红
+pavilions:青色
+painting:栗色
+residence:橄榄绿
+scenery:紫色
+mountains:橙色
+waters:粉红
+gems:天蓝
+painting:灰色

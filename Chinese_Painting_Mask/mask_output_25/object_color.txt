@@ -1,0 +1,12 @@
+snow:红色
+shadows:绿色
+land:蓝色
+fishing boat:黄色
+river:洋红
+boatmen:青色
+oars:栗色
+water:橄榄绿
+waves:紫色
+fish:橙色
+poem:粉红
+bottle:天蓝

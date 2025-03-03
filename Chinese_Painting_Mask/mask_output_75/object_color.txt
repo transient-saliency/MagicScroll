@@ -1,0 +1,12 @@
+autumn:红色
+soldiers:绿色
+road:蓝色
+heat:黄色
+illness:洋红
+pines:青色
+valley:栗色
+courtyard:橄榄绿
+springs:紫色
+cliff rocks:橙色
+white clouds:粉红
+golden jade:天蓝

@@ -1,0 +1,10 @@
+wind:红色
+tree:绿色
+sun:蓝色
+western hills:黄色
+world:洋红
+steps:青色
+time:栗色
+longing:橄榄绿
+reed:紫色
+pond:橙色

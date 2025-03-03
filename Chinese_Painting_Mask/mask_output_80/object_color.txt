@@ -1,0 +1,11 @@
+roots:红色
+earth:绿色
+dew:蓝色
+midday:黄色
+rosy clouds:洋红
+land:青色
+road:栗色
+jade palace:橄榄绿
+lotus fruit:紫色
+sea:橙色
+raft:粉红

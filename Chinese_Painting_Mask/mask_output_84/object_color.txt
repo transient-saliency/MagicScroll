@@ -1,0 +1,8 @@
+Urn:红色
+Min and E rivers:绿色
+Dongting Lake:蓝色
+waves:黄色
+Eastern Sea:洋红
+mountains:青色
+E region tower:栗色
+Yellow Crane Immortal:橄榄绿

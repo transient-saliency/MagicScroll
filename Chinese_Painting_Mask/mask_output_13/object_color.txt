@@ -1,0 +1,10 @@
+clouds:红色
+mountain:绿色
+rain:蓝色
+window:黄色
+brush:洋红
+clouds:青色
+wine jar:栗色
+mist:橄榄绿
+emerald green:紫色
+Fuchun River:橙色

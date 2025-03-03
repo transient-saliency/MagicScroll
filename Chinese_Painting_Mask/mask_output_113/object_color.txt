@@ -1,0 +1,7 @@
+mountain shadows:红色
+river lights:绿色
+river:蓝色
+fishermen's songs:黄色
+willows:洋红
+bank:青色
+raincoat:栗色

@@ -1,0 +1,18 @@
+Xianglu Peak:红色
+waterfalls:绿色
+lightning:蓝色
+rainbow:黄色
+heavenly river:洋红
+sky:青色
+momentum:栗色
+nature:橄榄绿
+sea breeze:紫色
+river moonlight:橙色
+emptiness:粉红
+spray:天蓝
+cliffs_left:灰色
+cliffs_right:银色
+pearls:橙红
+mist:紫红
+geyser:淡绿
+rocks:玫瑰红

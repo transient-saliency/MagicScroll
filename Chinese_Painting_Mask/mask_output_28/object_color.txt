@@ -1,0 +1,9 @@
+foothills:红色
+willow bridges:绿色
+fishing boats:蓝色
+flowers:黄色
+vines:洋红
+cottage:青色
+Gulls:栗色
+sands:橄榄绿
+sun:紫色

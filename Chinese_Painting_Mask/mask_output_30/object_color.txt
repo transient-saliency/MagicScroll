@@ -1,0 +1,14 @@
+courtyard:红色
+shadows:绿色
+grass:蓝色
+poems:黄色
+ink:洋红
+trees:青色
+lamp:栗色
+fish:橄榄绿
+geese:紫色
+assignment:橙色
+regret:粉红
+butterfly:天蓝
+bird:灰色
+woods:银色

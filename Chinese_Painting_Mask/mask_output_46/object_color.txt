@@ -1,0 +1,10 @@
+pavilion:红色
+creek:绿色
+afternoon:蓝色
+eaves:黄色
+trees:洋红
+crows:青色
+bed:栗色
+window:橄榄绿
+lamp:紫色
+tea:橙色

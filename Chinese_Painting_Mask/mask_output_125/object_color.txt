@@ -1,0 +1,9 @@
+person:红色
+house:绿色
+mountains:蓝色
+window:黄色
+water:洋红
+creek:青色
+spring:栗色
+creek:橄榄绿
+rain:紫色

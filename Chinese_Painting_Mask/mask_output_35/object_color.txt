@@ -1,0 +1,11 @@
+peaks:红色
+ridges:绿色
+pines:蓝色
+bamboo:黄色
+cottages:洋红
+paths:青色
+pine:栗色
+springs:橄榄绿
+picture:紫色
+wind:橙色
+atmosphere:粉红

@@ -1,0 +1,6 @@
+stones:红色
+shadows:绿色
+mountains:蓝色
+mist:黄色
+creek waters:洋红
+deep autumn sky:青色

@@ -1,0 +1,7 @@
+deeds:红色
+Danqing paintings:绿色
+paintings of Luo Zhong:蓝色
+garden:黄色
+water:洋红
+cranes:青色
+tower:栗色

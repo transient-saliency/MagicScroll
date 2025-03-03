@@ -1,0 +1,7 @@
+pen:红色
+flowers:绿色
+inkstone:蓝色
+stones:黄色
+clouds:洋红
+window:青色
+mountain shadows:栗色

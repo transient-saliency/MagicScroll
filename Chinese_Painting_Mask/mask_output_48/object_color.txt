@@ -1,0 +1,9 @@
+scholar:红色
+solitude:绿色
+clouds:蓝色
+tower:黄色
+Milky Way:洋红
+peaks:青色
+pine:栗色
+waves:橄榄绿
+valleys:紫色

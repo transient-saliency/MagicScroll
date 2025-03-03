@@ -1,0 +1,7 @@
+mountains:红色
+birds:绿色
+paths:蓝色
+boat:黄色
+fisherman:洋红
+river:青色
+snow:栗色

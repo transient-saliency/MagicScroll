@@ -1,0 +1,4 @@
+ridges:红色
+clouds:绿色
+stream:蓝色
+sun:黄色

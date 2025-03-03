@@ -1,0 +1,7 @@
+sky:红色
+waters:绿色
+ridge:蓝色
+sun:黄色
+forest:洋红
+scholar:青色
+boat:栗色

@@ -1,0 +1,8 @@
+mountain:红色
+green:绿色
+Yangtze River:蓝色
+cottages:黄色
+sun:洋红
+mist:青色
+travelers:栗色
+ferry:橄榄绿

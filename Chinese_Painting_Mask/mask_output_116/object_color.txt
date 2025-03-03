@@ -1,0 +1,4 @@
+water:红色
+clouds:绿色
+woods:蓝色
+old lady:黄色

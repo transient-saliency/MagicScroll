@@ -1,0 +1,3 @@
+capital:红色
+guest:绿色
+Liangyuan:蓝色

@@ -1,0 +1,6 @@
+streams:红色
+hills:绿色
+kindred souls:蓝色
+water:黄色
+forest:洋红
+clouds:青色

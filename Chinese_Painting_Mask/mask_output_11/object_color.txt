@@ -1,0 +1,8 @@
+pines:红色
+stone stalactites:绿色
+cloud:蓝色
+shadows:黄色
+monk:洋红
+wind:青色
+snow:栗色
+flowers:橄榄绿

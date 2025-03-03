@@ -1,0 +1,7 @@
+mountains:红色
+clouds:绿色
+mountains:蓝色
+clouds:黄色
+pines:洋红
+moon:青色
+fathom:栗色

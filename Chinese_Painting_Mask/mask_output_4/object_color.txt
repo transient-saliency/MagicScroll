@@ -1,0 +1,8 @@
+pond:红色
+trees:绿色
+bloom:蓝色
+mark:黄色
+ink:洋红
+colors:青色
+energy:栗色
+world:橄榄绿

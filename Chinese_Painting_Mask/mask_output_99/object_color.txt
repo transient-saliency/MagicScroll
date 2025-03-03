@@ -1,0 +1,5 @@
+century:红色
+gate:绿色
+firewood:蓝色
+river:黄色
+grassy pavilion:洋红

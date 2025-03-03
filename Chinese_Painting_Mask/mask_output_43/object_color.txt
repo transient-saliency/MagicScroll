@@ -1,0 +1,3 @@
+fisherman:红色
+peach blossom:绿色
+brush:蓝色

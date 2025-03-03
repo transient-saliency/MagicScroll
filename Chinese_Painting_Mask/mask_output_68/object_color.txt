@@ -1,0 +1,2 @@
+Mountains:红色
+Horse's head:绿色

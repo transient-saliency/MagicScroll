@@ -1,0 +1,8 @@
+Yellow Emperor:红色
+platform:绿色
+alchemical stove:蓝色
+purple herbs:黄色
+remedies:洋红
+energy:青色
+peaks:栗色
+light:橄榄绿

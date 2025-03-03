@@ -1,0 +1,8 @@
+Forest:红色
+pen:绿色
+trees:蓝色
+streams:黄色
+eyes:洋红
+romance:青色
+reading:栗色
+apricot blossoms:橄榄绿

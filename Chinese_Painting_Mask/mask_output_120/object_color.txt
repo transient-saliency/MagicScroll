@@ -1,0 +1,10 @@
+forests:红色
+clouds:绿色
+brooks:蓝色
+mountains:黄色
+clouds:洋红
+mountain:青色
+birds:栗色
+tide:橄榄绿
+shadows:紫色
+pine:橙色

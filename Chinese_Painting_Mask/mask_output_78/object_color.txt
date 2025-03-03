@@ -1,0 +1,8 @@
+sand:红色
+jade:绿色
+cold:蓝色
+immortal:黄色
+cinnabar:洋红
+bath:青色
+cloud road:栗色
+stream:橄榄绿

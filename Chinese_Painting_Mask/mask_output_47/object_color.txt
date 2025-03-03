@@ -1,0 +1,6 @@
+mountain:红色
+lotus flowers:绿色
+peak:蓝色
+song:黄色
+hermits:洋红
+hill:青色

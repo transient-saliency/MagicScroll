@@ -1,0 +1,3 @@
+chrysanthemums:红色
+eastern fence:绿色
+southern mountains:蓝色

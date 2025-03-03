@@ -1,0 +1,5 @@
+sea:红色
+cloud:绿色
+eyes:蓝色
+bamboo door:黄色
+spring:洋红

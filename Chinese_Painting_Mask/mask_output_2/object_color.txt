@@ -1,0 +1,11 @@
+trees:红色
+mountains:绿色
+snow:蓝色
+hills:黄色
+lake:洋红
+cottage:青色
+hermit:栗色
+window:橄榄绿
+air:紫色
+chill:橙色
+atmosphere:粉红

@@ -1,0 +1,11 @@
+night:红色
+noise:绿色
+gatherings:蓝色
+dreams:黄色
+morning:洋红
+brush:青色
+strokes:栗色
+impurities:橄榄绿
+world:紫色
+pine:橙色
+bamboo:粉红

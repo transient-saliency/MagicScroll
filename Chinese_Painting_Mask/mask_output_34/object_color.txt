@@ -1,0 +1,8 @@
+rain:红色
+trees:绿色
+sky:蓝色
+mountains:黄色
+grass:洋红
+waves:青色
+harbor:栗色
+boat:橄榄绿

@@ -1,0 +1,11 @@
+stone creek:红色
+Old Taoist:绿色
+deep ravines:蓝色
+streams:黄色
+stones:洋红
+cave:青色
+mountains:栗色
+house:橄榄绿
+wind:紫色
+monk's room:橙色
+sand:粉红

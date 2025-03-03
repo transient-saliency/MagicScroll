@@ -1,0 +1,4 @@
+mountains:红色
+humans:绿色
+view:蓝色
+mountains:黄色

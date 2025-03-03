@@ -1,0 +1,5 @@
+houses:红色
+heat:绿色
+rain:蓝色
+mountain:黄色
+cloud:洋红

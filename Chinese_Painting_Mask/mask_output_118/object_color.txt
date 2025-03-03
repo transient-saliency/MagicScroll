@@ -1,0 +1,4 @@
+Samadhi:红色
+clouds:绿色
+sand:蓝色
+trees:黄色

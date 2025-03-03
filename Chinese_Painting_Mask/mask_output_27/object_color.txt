@@ -1,0 +1,11 @@
+smoke:红色
+clouds:绿色
+rocks:蓝色
+windows:黄色
+rain:洋红
+banana leaves:青色
+sea:栗色
+sky:橄榄绿
+rain:紫色
+sun:橙色
+window:粉红

@@ -1,0 +1,7 @@
+leaves:红色
+petals:绿色
+gold:蓝色
+Shanglin:黄色
+ice:洋红
+frost:青色
+sun:栗色

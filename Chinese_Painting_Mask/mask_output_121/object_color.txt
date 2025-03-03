@@ -1,0 +1,10 @@
+expanse:红色
+lake:绿色
+mountains:蓝色
+waves:黄色
+clouds:洋红
+mist:青色
+orchid paddle:栗色
+Han Gao maiden:橄榄绿
+geese:紫色
+mists:橙色

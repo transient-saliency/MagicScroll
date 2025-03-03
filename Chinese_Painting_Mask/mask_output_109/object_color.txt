@@ -1,0 +1,8 @@
+music:红色
+rise and fall:绿色
+nation:蓝色
+fortunes:黄色
+misfortunes:洋红
+virtuous:青色
+sword:栗色
+country:橄榄绿

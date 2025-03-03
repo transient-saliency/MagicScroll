@@ -1,0 +1,6 @@
+mountains:红色
+waters:绿色
+fish:蓝色
+birds:黄色
+tree:洋红
+cabin:青色

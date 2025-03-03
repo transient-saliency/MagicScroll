@@ -1,0 +1,11 @@
+wind:红色
+rain:绿色
+coolness:蓝色
+trees:黄色
+window:洋红
+thatched hut:青色
+stream:栗色
+brush:橄榄绿
+thoughts:紫色
+cranes:橙色
+smoke:粉红

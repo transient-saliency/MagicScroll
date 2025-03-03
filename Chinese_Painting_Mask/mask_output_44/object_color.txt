@@ -1,0 +1,17 @@
+swallows:红色
+orioles:绿色
+grass:蓝色
+door:黄色
+rain:洋红
+mist:青色
+travelers:栗色
+road:橄榄绿
+lamp:紫色
+silence:橙色
+magpies:粉红
+night:天蓝
+swallows:灰色
+plum blossoms:银色
+small window:橙红
+bright moon:紫红
+pear blossoms:淡绿

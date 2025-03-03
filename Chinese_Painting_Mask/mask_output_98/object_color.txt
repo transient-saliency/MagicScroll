@@ -1,0 +1,8 @@
+waters:红色
+cliffs:绿色
+structure:蓝色
+islet:黄色
+sun:洋红
+microbell:青色
+sails:栗色
+Chu's rainy sky:橄榄绿

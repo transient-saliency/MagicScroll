@@ -1,0 +1,7 @@
+wind:红色
+rain:绿色
+Three Xiang:蓝色
+sky:黄色
+clouds:洋红
+water's end:青色
+poetic inspiration:栗色

@@ -1,0 +1,11 @@
+seagulls:红色
+lake:绿色
+fishing huts:蓝色
+stream's mist:黄色
+sun:洋红
+nets:青色
+willow:栗色
+banks:橄榄绿
+water:紫色
+reed flowers:橙色
+duck boat:粉红

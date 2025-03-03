@@ -1,0 +1,7 @@
+mountains:红色
+river:绿色
+flowers:蓝色
+birds:黄色
+sky:洋红
+staff:青色
+Wang Wei's little Wangchuan:栗色

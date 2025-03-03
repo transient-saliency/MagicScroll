@@ -1,0 +1,9 @@
+mountains:红色
+clouds:绿色
+communication:蓝色
+forest:黄色
+bridge:洋红
+village:青色
+rain:栗色
+mist:橄榄绿
+ink brushwork:紫色

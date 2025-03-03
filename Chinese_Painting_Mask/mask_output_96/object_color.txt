@@ -1,0 +1,7 @@
+playing:红色
+trees:绿色
+water:蓝色
+orioles:黄色
+bamboo shoots:洋红
+zither master:青色
+small boat:栗色

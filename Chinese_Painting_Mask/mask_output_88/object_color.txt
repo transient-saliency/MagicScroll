@@ -1,0 +1,14 @@
+peaks:红色
+ravines:绿色
+clouds:蓝色
+woods:黄色
+springs:洋红
+ridges:青色
+monkeys:栗色
+cranes:橄榄绿
+person:紫色
+creek:橙色
+water:粉红
+river:天蓝
+sky:灰色
+merchant boats:银色

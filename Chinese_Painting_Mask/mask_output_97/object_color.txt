@@ -1,0 +1,12 @@
+mountains:红色
+clouds:绿色
+cliff:蓝色
+hermitage:黄色
+rock:洋红
+moss:青色
+ferns:栗色
+shore:橄榄绿
+maidenhair:紫色
+tea buds:橙色
+cauldron:粉红
+passing monk:天蓝
